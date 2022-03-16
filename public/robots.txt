@@ -1,3 +1,4 @@
 # https://www.robotstxt.org/robotstxt.html
+# Do whatever tf you want
 User-agent: *
 Disallow:

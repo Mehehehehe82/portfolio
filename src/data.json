@@ -1,0 +1,16 @@
+{
+	"data": [
+		{
+			"head": "Color Psychology infographic",
+			"imageURI": "img/Color_Project_A.zip.unpacked/1.png"
+		},
+		{
+			"head": "What is Fair Use?",
+			"imageURI": "img/What_is_FAIR_USE.png"
+		},
+		{
+			"head": "This very website",
+			"text": "As you may have guessed by the spinnning atom, this isn't some plain HTML+CSS. It's actually a react app, and I can modify this text and fill out the portfolio without touching the actual code."
+		}
+	]
+}
